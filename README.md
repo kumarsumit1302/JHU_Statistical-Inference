@@ -1,4 +1,4 @@
-# Peer-graded-Assignment-Statistical-Inference-Course-Project
+# Statistical Inference Course Project
  The project consists of two parts:
 
   A simulation exercise.
